@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">IBM Certified Data Scientist seeking for new opportunities</h3>
+<h1 align="left">Hi 👋, I'm Andy</h1>
+<h3 align="left">IBM Certified Data Scientist seeking for new opportunities</h3>
 
 - 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/machine_learning)
 
@@ -13,7 +13,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andyocnz&show_icons=true" alt="andyocnz" />
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/ntrieua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ntrieua" height="30" width="30" /></a>
 </p>
 
