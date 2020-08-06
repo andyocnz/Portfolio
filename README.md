@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Andy</h1>
-<h3 align="left">IBM Certified Data Scientist seeking for new opportunities</h3>
+<h3 align="left">I'm an IBM Certified Data Scientist seeking for new opportunities</h3>
 
 - 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/machine_learning)
 - 🌱 I’m currently learning **Scala**
