@@ -13,6 +13,7 @@
 - [Revenue by Industry with Bar_chart_race](https://github.com/andyocnz/Portfolio/blob/master/Revenue%20by%20Industries%20over%20time.ipynb)
 - [Exploratory Data Analysis](https://github.com/andyocnz/Portfolio/blob/master/Exploratory%20Data%20Analysis.ipynb)
 - [Data cleaning](https://github.com/andyocnz/Portfolio/blob/master/Data%20cleaning.ipynb)
+- [Data scraping](https://github.com/andyocnz/Portfolio/blob/master/Data%20Scraping.ipynb)
 - [Feature engineering and selection](https://github.com/andyocnz/Portfolio/blob/master/Feature%20engineering.ipynb)
 
 <h3 align="left">Skills</h3>
