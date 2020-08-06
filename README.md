@@ -21,10 +21,13 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andyocnz&show_icons=true" alt="andyocnz" />
 
+<h3 align="left">Stats</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/ntrieua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ntrieua" height="30" width="30" /></a>
 </p>
 
+<h3 align="left">Recent activities</h3>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#6](https://github.com//andyocnz/github-actions-for-ci/pull/6) in [andyocnz/github-actions-for-ci](https://github.com//andyocnz/github-actions-for-ci)
