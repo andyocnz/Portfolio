@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/machine_learning)
 - 🌱 I’m currently learning **Scala**
-- 👨‍💻 All of my projects are available at [https://github.com/andyocnz/Portfolio](https://github.com/andyocnz/Portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/andyocnz/](https://github.com/andyocnz/Portfolio)
 - 📫 How to reach me **ntrieua@gmail.com**
 
 <h3 align="left">My recent works</h3>
