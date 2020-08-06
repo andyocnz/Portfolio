@@ -8,7 +8,8 @@
 
 <h3 align="left">My recent works</h3>
 
-- Revenue forecast model
+- [Revenue Forecasting model]
+- [Sentiment analysis in Account Management]
 - [Email content analysis](https://github.com/andyocnz/Portfolio/blob/master/Mailbox%20analysis.ipynb)
 - [Revenue by Industry with Bar_chart_race](https://github.com/andyocnz/Portfolio/blob/master/Revenue%20by%20Industries%20over%20time.ipynb)
 - [Exploratory Data Analysis](https://github.com/andyocnz/Portfolio/blob/master/Exploratory%20Data%20Analysis.ipynb)
