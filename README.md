@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Andy</h1>
 <h3 align="left">I'm an IBM Certified Data Scientist seeking for new opportunities</h3>
 
-- 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/machine_learning)
+- 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/Portfolio/blob/master/Sentiment%20Analysis%20for%20Exploratory%20Data%20Analysis.ipynb)
 - 🌱 I’m currently learning **Scala**
 - 👨‍💻 All of my projects are available at [https://github.com/andyocnz/](https://github.com/andyocnz/Portfolio)
 - 📫 How to reach me **ntrieua@gmail.com**
