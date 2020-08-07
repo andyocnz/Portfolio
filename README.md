@@ -8,11 +8,13 @@
 
 <h3 align="left">My recent works</h3>
 
-- Revenue forecast model
+- [Revenue Forecasting model]
+- [Sentiment analysis in Account Management]
 - [Email content analysis](https://github.com/andyocnz/Portfolio/blob/master/Mailbox%20analysis.ipynb)
 - [Revenue by Industry with Bar_chart_race](https://github.com/andyocnz/Portfolio/blob/master/Revenue%20by%20Industries%20over%20time.ipynb)
 - [Exploratory Data Analysis](https://github.com/andyocnz/Portfolio/blob/master/Exploratory%20Data%20Analysis.ipynb)
 - [Data cleaning](https://github.com/andyocnz/Portfolio/blob/master/Data%20cleaning.ipynb)
+- [Data scraping](https://github.com/andyocnz/Portfolio/blob/master/Data%20Scraping.ipynb)
 - [Feature engineering and selection](https://github.com/andyocnz/Portfolio/blob/master/Feature%20engineering.ipynb)
 
 <h3 align="left">Skills</h3>
@@ -24,10 +26,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=andyocnz&show_icons=true" alt="andyocnz" />
 
 
-<p align="left">
-<a href="https://linkedin.com/in/ntrieua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ntrieua" height="30" width="30" /></a>
-</p>
-
 <h3 align="left">Recent activities</h3>
 
 <!--START_SECTION:activity-->
@@ -37,3 +35,8 @@
 4. 💪 Opened PR [#5](https://github.com//andyocnz/github-actions-for-ci/pull/5) in [andyocnz/github-actions-for-ci](https://github.com//andyocnz/github-actions-for-ci)
 5. 🎉 Merged PR [#2](https://github.com//andyocnz/github-actions-for-ci/pull/2) in [andyocnz/github-actions-for-ci](https://github.com//andyocnz/github-actions-for-ci)
 <!--END_SECTION:activity-->
+
+
+<p align="left">
+<a href="https://linkedin.com/in/ntrieua" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ntrieua" height="30" width="30" /></a>
+</p>
