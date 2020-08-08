@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Andy</h1>
+<h1 align="left">Hi, I'm Andy</h1>
 <h3 align="left">I'm an IBM Certified Data Scientist seeking for new opportunities</h3>
 
 - 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/Portfolio/blob/master/Sentiment%20Analysis%20for%20early%20problem%20detection%20in%20account%20management.ipynb)
