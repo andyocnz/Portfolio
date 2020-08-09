@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Andy</h1>
+<h1 align="left">Hi, I'm Andy</h1>
 <h3 align="left">I'm an IBM Certified Data Scientist seeking for new opportunities</h3>
 
-- 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/Portfolio/blob/master/Sentiment%20Analysis%20for%20Exploratory%20Data%20Analysis.ipynb)
+- 🔭 I’m currently working on [Sentiment analysis in account management](https://github.com/andyocnz/Portfolio/blob/master/Sentiment%20Analysis%20for%20early%20problem%20detection%20in%20account%20management.ipynb)
 - 🌱 I’m currently learning **Scala**
 - 👨‍💻 All of my projects are available at [https://github.com/andyocnz/](https://github.com/andyocnz/Portfolio)
 - 📫 How to reach me **ntrieua@gmail.com**
@@ -9,7 +9,7 @@
 <h3 align="left">My recent works</h3>
 
 - [Revenue Forecasting model](https://github.com/andyocnz/Portfolio/blob/master/Revenue%20Forecasting.ipynb)
-- [Sentiment analysis in Account Management](https://github.com/andyocnz/Portfolio/blob/master/Sentiment%20Analysis%20for%20Exploratory%20Data%20Analysis.ipynb)
+- [Sentiment analysis in Account Management](https://github.com/andyocnz/Portfolio/blob/master/Sentiment%20Analysis%20for%20early%20problem%20detection%20in%20account%20management.ipynb)
 - [Email content analysis](https://github.com/andyocnz/Portfolio/blob/master/Mailbox%20analysis.ipynb)
 - [Revenue by Industry with Bar_chart_race](https://github.com/andyocnz/Portfolio/blob/master/Revenue%20by%20Industries%20over%20time.ipynb)
 - [Exploratory Data Analysis](https://github.com/andyocnz/Portfolio/blob/master/Exploratory%20Data%20Analysis.ipynb)
